@@ -2,4 +2,4 @@
 Coursera test reppository
 # Build settings
 markdown: kramdown
-theme: cayman
+remote-theme: pages-themes/cayman@v0.2.0
