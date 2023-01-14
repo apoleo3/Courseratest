@@ -1,5 +1,5 @@
 # Courseratest
 Coursera test reppository
-# Build setting
+# Build settings
 markdown: kramdown
 theme: cayman
